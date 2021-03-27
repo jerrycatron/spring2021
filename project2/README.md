@@ -67,7 +67,7 @@ We want to understand how efficient teams have been historically at spending mon
 
 ## Organization of the Project
 
-Each part of the project is split into two aspects: The _problems_ and the _questions_. The _problems_ are to be solved with code. This code should be documented and formatted in a manner that makes understanding the code feasible. The _questions_ are meant to be answered with prose. Notice that each question is worth more than each problem: A hastily written sentence is unlikely to earn full marks. 
+Each part of the project is split into two aspects: The _problems_ and the _questions_. The _problems_ are to be solved with code. This code should be documented and formatted in a manner that makes understanding the code feasible. The _questions_ are meant to be answered with prose. Notice that each question is worth more than each problem: A hastily written sentence is unlikely to earn full marks.
 
 ## Part 1: Wrangling
 
